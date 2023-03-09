@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Adivina el número secreto</title>
+        <title>Adivina el secret number</title>
         <meta charset="UTF-8">
         <link rel="stylesheet" href="stylesheet.css">
     </head>
