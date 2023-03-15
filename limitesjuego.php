@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="stylesheet.css">
     </head>
     <body>
-        <h1>Ya no se que cambiar</h1>
+        <h1>Ya no se que cambiar jolinnnn</h1>
         <p></p>
         <div class="capaform">
             <form class="form-font" action="numJugado.php" method="POST">
